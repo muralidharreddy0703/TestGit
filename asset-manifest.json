@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/muralidharreddy0703/TestGit/static/css/main.d1b05096.chunk.css",
+    "main.js": "/muralidharreddy0703/TestGit/static/js/main.ac020043.chunk.js",
+    "main.js.map": "/muralidharreddy0703/TestGit/static/js/main.ac020043.chunk.js.map",
+    "runtime-main.js": "/muralidharreddy0703/TestGit/static/js/runtime-main.d969f290.js",
+    "runtime-main.js.map": "/muralidharreddy0703/TestGit/static/js/runtime-main.d969f290.js.map",
+    "static/js/2.9401d5ee.chunk.js": "/muralidharreddy0703/TestGit/static/js/2.9401d5ee.chunk.js",
+    "static/js/2.9401d5ee.chunk.js.map": "/muralidharreddy0703/TestGit/static/js/2.9401d5ee.chunk.js.map",
+    "index.html": "/muralidharreddy0703/TestGit/index.html",
+    "precache-manifest.b8166428dfb302a855d6e8a31f1425ce.js": "/muralidharreddy0703/TestGit/precache-manifest.b8166428dfb302a855d6e8a31f1425ce.js",
+    "service-worker.js": "/muralidharreddy0703/TestGit/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/muralidharreddy0703/TestGit/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9401d5ee.chunk.js.LICENSE.txt": "/muralidharreddy0703/TestGit/static/js/2.9401d5ee.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/muralidharreddy0703/TestGit/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d969f290.js",
+    "static/js/2.9401d5ee.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ac020043.chunk.js"
+  ]
+}
